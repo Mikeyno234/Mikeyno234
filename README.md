@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hanif Mulyana Putra</h1>
 <h3 align="center">software and web developer enthusiast from Indonesia</h3>
 
-- 🔭 I’m currently working on [F1-App Clone](https://f1-react-js-selp.vercel.app/)
-
-- ⚡ Fun fact **i,m currently drive too for sim racing at Mirablau Team for assetto corsa .etc and also i hve being in league for | ISL | being a reserved driver**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
